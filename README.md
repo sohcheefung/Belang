@@ -10,5 +10,6 @@
 * JavaScript  
 * Unity Free Assets  
 * Unity Scripting API: MonoBehaviour  
-* 3ds Max
+* 3ds Max  
+* Shader Lab
 * Adobe Photoshop  
